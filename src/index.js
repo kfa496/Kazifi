@@ -63,7 +63,7 @@ ReactDOM.render(
                     <MetronicSplashScreenProvider>
                         <SnackbarProvider TransitionComponent={GrowTransition}>
                             <Provider store={store}>
-                                <HashRouter basename={'/octofi-app-aquafarm'}>
+                                <HashRouter basename={'/kazifi/'}>
                                     <Updaters />
                                     <ThemeProvider>
                                         <App />
