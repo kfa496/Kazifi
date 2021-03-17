@@ -2,7 +2,7 @@
   "name": "defi_dashboard",
   "version": "1.80.0",
   "private": true,
-  "homepage": "https://app.octo.fi",
+  "homepage": "https://kfa496.github.io/kazifi/",
   "dependencies": {
     "@apollo/client": "^3.2.3",
     "@bonustrack/snapshot.js": "github:bonustrack/snapshot.js#master",
